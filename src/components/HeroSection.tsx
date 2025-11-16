@@ -20,7 +20,7 @@ const HeroSection = () => {
           <div className="inline-block">
             <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/20 border border-accent/30 text-accent font-medium text-sm backdrop-blur-sm">
               <span className="w-2 h-2 rounded-full bg-accent animate-pulse" />
-              Live Season 2024/25
+              Live Seasdasdasdasdasdason 2024/25
             </span>
           </div>
 
@@ -28,7 +28,7 @@ const HeroSection = () => {
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-foreground leading-tight tracking-tight">
             Where Legends
             <span className="block bg-gradient-to-r from-accent via-orange-400 to-accent bg-clip-text text-transparent animate-pulse">
-              Are Born
+              Are Bsdfsdfsdfsdforn
             </span>
           </h1>
 

@@ -26,7 +26,7 @@ const HeroSection = () => {
 
           {/* Main Heading */}
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-foreground leading-tight tracking-tight">
-            Where Legends
+            Where Legasdasdasdasdasdasdasdasends
             <span className="block bg-gradient-to-r from-accent via-orange-400 to-accent bg-clip-text text-transparent animate-pulse">
               Are Bsdfsdfsdfsdforn
             </span>
